@@ -1,4 +1,4 @@
-# projeto12-tweteroo
+# Projeto - 12 Tweteroo
 # Descrição
 
 Seu primeiro projeto *back-end* será a construção da API do **Tweteroo**, um clone do Twitter!
